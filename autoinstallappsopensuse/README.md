@@ -1,0 +1,2 @@
+# autoinstallappsopensuse
+autoinstallappsopensuse
